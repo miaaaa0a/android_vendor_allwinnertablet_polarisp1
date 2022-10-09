@@ -1,0 +1,1 @@
+$(call inherit-product, vendor/allwinnertablet/polarisp1/polarisp1-vendor-blobs.mk)
